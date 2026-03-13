@@ -27,10 +27,13 @@ This project has two parts:
 
 ## ✨ Features
 
-- 🎯 Content-based filtering — recommendations driven by movie metadata, not user history
-- 💰 Revenue prediction from pre-release features (budget, cast, genre)
-- 🔍 Exploratory analysis of trends across genres, budgets, and popularity scores
-- 🧹 Full data cleaning pipeline handling nulls, inconsistent formats, and nested JSON fields
+🎯 Content-based filtering, recommendations driven by movie metadata, not user history
+
+💰 Revenue prediction from pre-release features (budget, cast, genre)
+
+🔍 Exploratory analysis of trends across genres, budgets, and popularity scores
+
+🧹 Full data cleaning pipeline handling nulls, inconsistent formats, and nested JSON fields
 
 ---
 
